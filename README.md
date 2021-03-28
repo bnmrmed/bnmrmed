@@ -1,6 +1,6 @@
 - 👋 Hi, Mohammed here
 - 👀 I’m interested in all that touches cloud native and kubernetes native 
-- 🌱 I’m currently learning operatore on kubernetes
+- 🌱 I’m currently learning operators on kubernetes
 - 📫 How to reach me bnmrmed@gmail.com
 
 <!---
